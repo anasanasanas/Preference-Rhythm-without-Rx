@@ -4,7 +4,6 @@
 Android library makes using Shared Preference easier.
 
 ## Features
-* Support RxJava 2
 * Encrypt Data
 * Support Iterable
 * Build on top of repository design pattern
@@ -89,11 +88,6 @@ Then
         //get the list saved in the shared preference, if nothing saved return null
         userTokenPreferenceRepo.getList();
 
-        //return Observable that emits the Object
-        userTokenPreferenceRepo.getObjectObservable();
-
-        //return Observable that emits List of the objects
-        userTokenPreferenceRepo.getListObservable();
 ```
 
 
