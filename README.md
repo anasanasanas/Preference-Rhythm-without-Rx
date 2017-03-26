@@ -15,7 +15,7 @@ Add this to your module `build.gradle` file:
 ```
 dependencies {
     ...
-     compile "com.github.anasanasanas:Preference-Rhythm:1.0.0"
+      compile 'com.github.anasanasanas:Preference-Rhythm-without-Rx:1.0.0'
 }
 ```
 
