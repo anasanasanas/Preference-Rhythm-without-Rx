@@ -1,4 +1,4 @@
-# Preference Rhythm [![](https://jitpack.io/v/anasanasanas/Preference-Rhythm.svg)](https://jitpack.io/#anasanasanas/Preference-Rhythm)
+# Preference Rhythm Without Rx [![](https://jitpack.io/v/anasanasanas/Preference-Rhythm-without-Rx.svg)](https://jitpack.io/#anasanasanas/Preference-Rhythm-without-Rx)
 
 
 Android library makes using Shared Preference easier.
